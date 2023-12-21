@@ -21,18 +21,12 @@ As soon as I can update, I will do so, any tips or questions, I am available./As
 
     *How to use?/Como usar?
    
-git clone https://github.com/overmod1/hcx-wifite.git
+git clone https://github.com/figpatrick/hcx-wifite.git
 
 cd hcx-wifite/
 
 chmod +x install.sh 
 
 ./install.sh
-
-..............................................
-
-Overmod/Overmod1
-
-E-mail: overmod@protonmail.com
 
 ..............................................
