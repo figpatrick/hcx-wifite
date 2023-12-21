@@ -2,7 +2,7 @@
 
 echo "...................................."
 echo "Bem vindo ao autoinstalador do HCX para WIFITE"
-echo "Desenvolvido por Overmod"
+echo "Desenvolvido por Patrick Figueiredo"
 echo "...................................."
 echo
 echo "Sera instalado todos os requisitos, HXCDUMPTOOL e HCXTOOLS"
@@ -29,7 +29,7 @@ echo "HCXTOOL instalado com sucesso."
 echo
 echo "Concluido com sucesso."
 echo "...................................."
-echo "Desenvolvido por: OVERMOD"
-echo "www.github.com/overmod1"
+echo "Desenvolvido por: Patrick Figueiredo"
+echo "www.github.com/figpatrick"
 echo "...................................."
 exit
